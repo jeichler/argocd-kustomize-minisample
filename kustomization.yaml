@@ -1,6 +1,7 @@
 bases:
 - github.com/jeichler/argocd-kustomize-minisample?ref=master
-- namespace.yaml
+
+namespace: argo-prod
 
 #replicas:
 #  - name: print-headers
