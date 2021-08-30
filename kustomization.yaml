@@ -1,3 +1,4 @@
 bases:
 - github.com/jeichler/argocd-kustomize-minisample?ref=master
-- namespace.yaml
+
+namespace: janine-test
