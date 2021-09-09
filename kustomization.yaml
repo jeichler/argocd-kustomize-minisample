@@ -1,4 +1,4 @@
 bases:
 - github.com/jeichler/argocd-kustomize-minisample?ref=master
 
-namespace: argo-test
+namespace: user1
